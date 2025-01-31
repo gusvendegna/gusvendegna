@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=10&color=F7F7F7&multiline=true&repeat=false&width=435&lines=gus+vendegna)](https://git.io/typing-svg)
 # 📊 Stats:
 <div style="display: 'flex';">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusvendegna&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="304">
